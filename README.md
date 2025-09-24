@@ -6,3 +6,4 @@ b = 2
 c = 1
 p = 3
 m = 4
+print(a*b*c*p*m)
